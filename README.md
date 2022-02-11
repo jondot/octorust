@@ -1,5 +1,12 @@
 # `octorust`
 
+
+
+> NOTE!: this is extracted from https://github.com/oxidecomputer/third-party-api-clients (MIT license)
+> Used as standalone because some downgrades needed (See in PATCH.md)
+> Don't use this unless you know what it means.
+
+
 A fully generated, opinionated API client library for GitHub.
 
 [![docs.rs](https://docs.rs/octorust/badge.svg)](https://docs.rs/octorust)
@@ -13,16 +20,16 @@ GitHub's v3 REST API.
 ### Contact
 
 
-| name | url |
-|----|----|
+| name    | url                                                |
+| ------- | -------------------------------------------------- |
 | Support | <https://support.github.com/contact?tags=rest-api> |
 
 ### License
 
 
-| name | url |
-|----|----|
-| MIT | <https://spdx.org/licenses/MIT> |
+| name | url                             |
+| ---- | ------------------------------- |
+| MIT  | <https://spdx.org/licenses/MIT> |
 
 
 ## Client Details
